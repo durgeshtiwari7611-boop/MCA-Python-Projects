@@ -1,0 +1,56 @@
+[
+    {
+        "id": "S001",
+        "name": "Rahul Sharma",
+        "age": 20,
+        "course": "MCA",
+        "marks": 85,
+        "email": "rahul@example.com",
+        "phone": "9876543210"
+    },
+    {
+        "id": "S002",
+        "name": "Priya Patel",
+        "age": 21,
+        "course": "MCA",
+        "marks": 92,
+        "email": "priya@example.com",
+        "phone": "9876543211"
+    },
+    {
+        "id": "S003",
+        "name": "Amit Kumar",
+        "age": 19,
+        "course": "BCA",
+        "marks": 78,
+        "email": "amit@example.com",
+        "phone": "9876543212"
+    },
+    {
+        "id": "S004",
+        "name": "Sneha Gupta",
+        "age": 22,
+        "course": "MCA",
+        "marks": 88,
+        "email": "sneha@example.com",
+        "phone": "9876543213"
+    },
+    {
+        "id": "S005",
+        "name": "Vikram Singh",
+        "age": 20,
+        "course": "BCA",
+        "marks": 65,
+        "email": "vikram@example.com",
+        "phone": "9876543214"
+    },
+    {
+        "id": "S006",
+        "name": "xdfgAWEt",
+        "age": 50,
+        "course": "mca",
+        "marks": 50.0,
+        "email": "durgeshtiwari7611@gmail.com",
+        "phone": "09798600805"
+    }
+]
